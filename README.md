@@ -83,7 +83,7 @@ workflow.add_edge("answer", END)
 
 # 실행 결과
 
-<img width="852" height="422" alt="image" src="https://github.com/user-attachments/assets/ba32bc2e-31d6-4e03-9caa-73c39b05f716" />
+<img width="930" height="326" alt="image" src="https://github.com/user-attachments/assets/810edda1-686b-49c1-8496-b6f96b7dc73a" />
 
 
 ---
